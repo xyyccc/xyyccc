@@ -1,10 +1,8 @@
 ### 👋 Hi, nice to meet you! I am Xingyuan~✨   
   
-
 <div align="right">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE1YmZmdWJwaGVqeXZoZnI3NjIwbXBzeGM0ajRrMnhqbDh3OHJ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c5wbvuaVVLWzC/giphy.gif" align="right" height="150" width="" />
+<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" align="right" height="150" width="" />
 </div>  
-  
 
 -  🤖 I am an MPhil student (Information Hub >> AI Thrust) at HKUST(GZ).  
   
