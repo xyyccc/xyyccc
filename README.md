@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" align="right" height="150" width="" />
 </div>  
 
--  🤖 I am an MPhil student (Information Hub >> AI Thrust) at HKUST(GZ).  
+-  🤖 I am an MPhil student (AI Thrust/Information Hub) at HKUST(GZ).  
   
 
 - 🌱 My research interests lie in Machine Learning Stability, Explainability, and Fairness.  
