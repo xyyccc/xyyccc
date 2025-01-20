@@ -7,7 +7,7 @@
 -  🤖 I am an MPhil student (Information Hub >> AI Thrust) at HKUST(GZ).  
   
 
-- 🌱 My research interests lie in Machine Learning transparency, fairness, and robustness.  
+- 🌱 My research interests lie in Machine Learning Stability, Explainability, and Fairness.  
   
 
 - 📝 I am currently working on a cross-disciplinary research project, AI × Traditional Chinese Medicine (TCM).  
